@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "first_name": "Thaine",
+        "last_name": "Draper",
+        "email": "tdraper0@bloglovin.com",
+        "gender": "Male",
+        "password": "nB1)gTXtpn9"
+    },
+    {
+        "id": 2,
+        "first_name": "Bettye",
+        "last_name": "Rollin",
+        "email": "mail2@mail.com",
+        "gender": "Female",
+        "password": "fZ3<GcSf55%2rMT"
+    },
+    {
+        "id": 3,
+        "first_name": "Korie",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 4,
+        "first_name": "Korie",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 5,
+        "first_name": "Koria",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 6,
+        "first_name": "Koria",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 7,
+        "first_name": "Koria",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 8,
+        "first_name": "Koria",
+        "last_name": "Gasnell",
+        "email": "kgasnell2@is.gd",
+        "gender": "Female",
+        "password": "hB5>V@1/y0s\\"
+    },
+    {
+        "id": 10,
+        "first_name": "Angie",
+        "last_name": "Garcia",
+        "email": "angie@mymail.com",
+        "gender": "Female",
+        "password": "angie86\\"
+    },
+    {
+        "id": 11,
+        "first_name": "Elsa",
+        "last_name": "Rodriguez",
+        "email": "elsie@mymail.com",
+        "gender": "Female"
+    },
+    {
+        "id": 12,
+        "first_name": "Carlos",
+        "last_name": "Vallarta",
+        "email": "ballarta@mymail.com",
+        "gender": "Male",
+        "password": "dwiO12LOm\\"
+    }
+]
